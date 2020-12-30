@@ -1,0 +1,2 @@
+com/arminmoh/cards/BuildConfig.java
+ com.arminmoh.cards.BuildConfig
